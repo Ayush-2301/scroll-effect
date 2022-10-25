@@ -1,2 +1,2 @@
 # scroll-effect
-Live Version: 
+Live Version: https://ayush-2301.github.io/scroll-effect/

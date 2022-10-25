@@ -1,0 +1,21 @@
+{
+  "name": "scroll_visual_effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build-css": "npx tailwindcss -i ./input.css -o ./output.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.1"
+  },
+  "dependencies": {
+    "vite": "^3.1.8"
+  }
+}
